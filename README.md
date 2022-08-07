@@ -31,6 +31,6 @@ na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓
  [Landing Page Dr. Estranho](https://github.com/GabrielSchmalz/LandingPage-DrEstranho/tree/main/LandingPageDoutorEstranho)
 
 ## Links
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](www.linkedin.com/in/gabrielschmalz23)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="22" />](www.linkedin.com/in/gabrielschmalz23)
 <p>
 Website Portfolio: Em construção
