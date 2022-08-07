@@ -24,7 +24,7 @@ na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓
 <p> <code><img height="30" src="https://user-images.githubusercontent.com/81606133/183310137-85d8027c-6e6a-4882-ac33-c9f073244164.png"></code>
  Inglês Avançado <p>
 <code><img height="30" src="https://user-images.githubusercontent.com/81606133/183310595-941a313b-9423-420a-a890-34c9e3a80465.png"></code>
- Espanhol Básico
+ Espanhol Básico <p>
  
  ## Projetos
  [Jogo da Memória](https://github.com/GabrielSchmalz/JogoDaMemoria-StarWars) <p>
@@ -34,3 +34,6 @@ na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="22" />](https://www.linkedin.com/in/gabrielschmalz23/)
 <p>
 Website Portfolio: Em construção
+
+## Contato
+gabrielschmalz23@gmail.com
