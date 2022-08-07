@@ -1,9 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Olá, seja bem vindo!👋
-<p>
 Meu nome é Gabriel Schmalz Bortoleti Dix Baberini, tenho 20 anos e sou estudante de Ciência da Computação
-na Universidade Federal do ABC (UFABC)🎓 </p>
+na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓
 
  ## Objetivos
  Busco ingressar num Estágio ou vaga Trainee para poder aprender mais afundo as funcionalidades e deveres de um Desenvolvedor dentro de uma empresa. Sendo assim, quero me dedicar ao aprendizado e adquirir experiências para, futuramente, me tornar um dev de excelência.
@@ -27,6 +26,9 @@ na Universidade Federal do ABC (UFABC)🎓 </p>
 <code><img height="30" src="https://user-images.githubusercontent.com/81606133/183310595-941a313b-9423-420a-a890-34c9e3a80465.png"></code>
  Espanhol Básico
  
+ ## Projetos
+ [Jogo da Memória](https://github.com/GabrielSchmalz/JogoDaMemoria-StarWars) <p>
+ [Landing Page Dr. Estranho](https://github.com/GabrielSchmalz/LandingPage-DrEstranho/tree/main/LandingPageDoutorEstranho)
 
 ## Links
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](www.linkedin.com/in/gabrielschmalz23)
