@@ -26,9 +26,9 @@ na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓
 <code><img height="30" src="https://user-images.githubusercontent.com/81606133/183310595-941a313b-9423-420a-a890-34c9e3a80465.png"></code>
  Espanhol Básico <p>
  
- ## Projetos
- [Jogo da Memória](https://github.com/GabrielSchmalz/JogoDaMemoria-StarWars) <p>
- [Landing Page Dr. Estranho](https://github.com/GabrielSchmalz/LandingPage-DrEstranho/tree/main/LandingPageDoutorEstranho)
+ ## Projetos de Estudo
+ [🧠Jogo da Memória](https://github.com/GabrielSchmalz/JogoDaMemoria-StarWars) <p>
+ [🧙‍♂️Landing Page Dr. Estranho](https://github.com/GabrielSchmalz/LandingPage-DrEstranho/tree/main/LandingPageDoutorEstranho)
 
 ## Links
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="22" />](https://www.linkedin.com/in/gabrielschmalz23/)
