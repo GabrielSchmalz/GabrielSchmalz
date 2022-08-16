@@ -32,8 +32,8 @@ na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓
 
 ## Links
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="22" />](https://www.linkedin.com/in/gabrielschmalz23/)
-<p>
-Website Portfolio: Em construção
+
+[Website Portfolio (Em construção)](https://gabrielschmalz.github.io)
 
 ## Contato
 gabrielschmalz23@gmail.com
