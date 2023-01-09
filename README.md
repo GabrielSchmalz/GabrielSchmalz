@@ -5,7 +5,7 @@ Meu nome é Gabriel Schmalz Bortoleti Dix Baberini, tenho 20 anos e sou estudant
 na [Universidade Federal do ABC](https://www.ufabc.edu.br/)🎓
 
  ## Objetivos
- Busco ingressar num Estágio ou vaga Trainee para poder aprender mais afundo as funcionalidades e deveres de um Desenvolvedor dentro de uma empresa. Sendo assim, quero me dedicar ao aprendizado e adquirir experiências para, futuramente, me tornar um dev de excelência.
+ Buscando aprender mais afundo as funcionalidades e deveres de um Desenvolvedor dentro de uma empresa. Sendo assim, quero me dedicar ao aprendizado e adquirir experiências para, futuramente, me tornar um dev de excelência.
 
 ## Estou Estudando:
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
